@@ -1,0 +1,27 @@
+{
+  "name": "Meme 4",
+  "description": "Meme 4",
+  "image": "https://raw.githubusercontent.com/Svechnikov/test-nft-content/master/nft_4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Wool fabric"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Top hat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    }
+  ]
+}

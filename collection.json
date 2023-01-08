@@ -1,0 +1,8 @@
+{
+  "name": "Memes NFT collection",
+  "description": "NFT collection with memes",
+  "image": "https://raw.githubusercontent.com/Svechnikov/test-nft-content/master/collection-logo.jpg",
+  "cover_image": "https://raw.githubusercontent.com/Svechnikov/test-nft-content/master/cover-image.jpg",
+  "external_link": "https://to-be-done.com",
+  "social_links": ["https://t.me/to_be_done"]
+}
